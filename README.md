@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Uribe 👋
+## Hi, I'm Gabriel Uribe
 ## About Me
 I am a student at the University of South Florida majoring in Business Analytics and Information Systems interested in using data to help solve real-world problems. I enjoy putting my problem-solving and analytical skills to use while continuously learning and further developing new technical skills.
 ## Career Goals
